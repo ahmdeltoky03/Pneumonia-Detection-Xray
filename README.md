@@ -68,9 +68,3 @@ Make sure you have the following installed:
 2. Click "Predict" to process the image.
 3. The application will classify the image and display the result (Normal/Pneumonia).
 
-## License
-This project is open-source and available for educational and research purposes.
-
-## Contact
-For any queries, contact [Your Name] at [your email].
-
