@@ -33,7 +33,8 @@ Make sure you have the following installed:
    pip install -r requirements.txt
    ```
 
-3. Place the trained model in the project directory (ensure the filename matches the one used in your Flask app).
+3. Run Colab notebook and --> save `model : vgg19_model_03.h5`,
+ --> load_weights and use it in Folder Flask Application and make predictions . ` Place the trained model in the Flask Application directory (ensure the filename matches the one used in your Flask app).`
 
 ## Running the Application
 
